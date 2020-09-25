@@ -49,5 +49,18 @@ Extending Slate Based OpenMRS RestAPI Documentation
 | **1**  | Updating the getting started Guide | [PR 78](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/78)|**Merged**|
 | **2**  | Documenting Authentication Resource | [PR 79](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/79)|**Merged**|
 | **3**  | Documenting concept class subresource | [PR 80](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/80)|**Merged**|
-| **4**  | Documenting concept Source subresource | [PR 81](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/81)|**Under Review**|
-| **5**  | Documenting concept Attribute subresource | [PR 82](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/80)|**Under Review**|
+| **4**  | Documenting concept Source subresource | [PR 81](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/81)|**Draft**|
+| **5**  | Documenting concept Attribute subresource | [PR 82](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/82)|**Draft**|
+
+### Week 2
+
+
+|       Order       |         Description          |      Link to PR        |      Status        |
+|-------------------|------------------------------|------------------------|--------------------|
+| **1**  | Documenting concept Source subresource | [PR 81](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/81)|**Merged**|
+| **2**  | Documenting concept Attribute subresource | [PR 82](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/82)|**Under-Review**|
+| **3**  | Documenting concept datatype subresource | [PR 83](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/83)|**Merged**|
+| **4**  | Documenting concept map type subresource | [PR 84](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/84)|**Merged**|
+| **5**  | Documenting concept reference term type subresource | [PR 85](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/85)|**Draft**|
+
+
