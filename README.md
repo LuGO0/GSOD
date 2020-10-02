@@ -1,2 +1,3 @@
-## This repository contains my weekly project reports for Google Season of Docs 2020
+# Project Report
+### This repository contains my weekly project reports for Google Season of Docs 2020
 
