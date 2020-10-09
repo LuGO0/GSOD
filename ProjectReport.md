@@ -75,4 +75,19 @@ Extending Slate Based OpenMRS RestAPI Documentation
 | **5**  | Documenting concept resource name section | [PR 88](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/88)|**Draft**|
 | **6**  | Documenting concept description section| [PR 89](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/89)|**Under-Review**|
 
+### Week 4
+
+
+|       Order       |         Description          |      Link to PR        |      Status        |
+|-------------------|------------------------------|------------------------|--------------------|
+| **1**  | Documenting concept resource | [PR 86](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/86)|**Draft**|
+| **2**  | Documenting concept resource mapping section | [PR 87](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/87)|**Under-Review**|
+| **3**  | Documenting concept resource name section | [PR 88](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/88)|**Under-Review**|
+| **4**  | Documenting concept description section| [PR 89](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/89)|**Merged**|
+| **5**  | Documenting concept resource attribute section| [PR 90](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/90)|**Under-Review**|
+| **6**  | Documenting Observation resource | [PR 91](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/91)|**Draft**|
+
+
+
+
 
