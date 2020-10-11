@@ -80,7 +80,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 |       Order       |         Description          |      Link to PR        |      Status        |
 |-------------------|------------------------------|------------------------|--------------------|
-| **1**  | Documenting concept resource | [PR 86](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/86)|**Draft**|
+| **1**  | Documenting concept resource | [PR 86](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/86)|**Under-Review**|
 | **2**  | Documenting concept resource mapping section | [PR 87](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/87)|**Under-Review**|
 | **3**  | Documenting concept resource name section | [PR 88](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/88)|**Under-Review**|
 | **4**  | Documenting concept description section| [PR 89](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/89)|**Merged**|
