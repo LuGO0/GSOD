@@ -87,6 +87,21 @@ Extending Slate Based OpenMRS RestAPI Documentation
 | **5**  | Documenting concept resource attribute section| [PR 90](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/90)|**Under-Review**|
 | **6**  | Documenting Observation resource | [PR 91](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/91)|**Draft**|
 
+### Week 5
+
+
+|       Order       |         Description          |      Link to PR        |      Status        |
+|-------------------|------------------------------|------------------------|--------------------|
+| **1**  | Documenting concept resource | [PR 86](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/86)|**Merged**|
+| **2**  | Documenting concept resource mapping section | [PR 87](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/87)|**Merged**|
+| **3**  | Documenting concept resource name section | [PR 88](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/88)|**Merged**|
+| **4**  | Documenting concept resource attribute section| [PR 90](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/90)|**Merged**|
+| **5**  | Documenting Observation resource | [PR 91](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/91)|**Merged**|
+| **6**  | Fixing UI Bugs uptill | [PR 92](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/92)|**Under-Review**|
+| **7**  | Documenting System Setting resource | [PR 93](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/93)|**Under-Review**|
+| **8**  | Documenting System-Information resource | [PR 94](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/94)|**Under-Review**|
+
+
 
 
 
