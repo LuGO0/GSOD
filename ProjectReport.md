@@ -110,9 +110,9 @@ Extending Slate Based OpenMRS RestAPI Documentation
 | **2**  | Documenting System Setting resource | [PR 93](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/93)|**Merged**|
 | **3**  | Documenting System-Information resource | [PR 94](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/94)|**Merged**|
 | **4**  | Documenting User resource | [PR 96](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/96)|**Draft**|
-| **5**  | Documenting Privileges resource | [PR 97](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/97)|**Under-Review**|
+| **5**  | Documenting Privileges resource | [PR 97](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/97)|**Merged**|
 | **6**  | Documenting Role resource | [PR 98](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/98)|**Draft**|
-| **7**  | Documenting Person-Attribute type resource | [PR 99](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/99)|**Under-Review**|
+| **7**  | Documenting Person-Attribute type resource | [PR 99](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/99)|**Merged**|
 
 
 
