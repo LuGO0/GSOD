@@ -114,7 +114,19 @@ Extending Slate Based OpenMRS RestAPI Documentation
 | **6**  | Documenting Role resource | [PR 98](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/98)|**Draft**|
 | **7**  | Documenting Person-Attribute type resource | [PR 99](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/99)|**Merged**|
 
+### Week 7
 
+
+|       Order       |         Description          |      Link to PR        |      Status        |
+|-------------------|------------------------------|------------------------|--------------------|
+| **1**  | Documenting User resource | [PR 96](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/96)|**Merged**|
+| **2**  | Documenting Role resource | [PR 98](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/98)|**Merged**|
+| **3**  | Documenting Person Attribute type | [PR 99](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/99)|**Merged**|
+| **4**  | Documenting PatientIdentifier Type | [PR 100](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/100)|**Draft**|
+| **5**  | Documenting Person Name Sub-resource | [PR 101](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/101)|**Merged**|
+| **6**  | Documenting Person Address Sub-resource | [PR 102](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/102)|**Merged**|
+| **7**  | Documenting Person Attribute | [PR 103](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/103)|**Merged**|
+| **8**  | Updating uniformly with demo server url | [PR 104](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/104)|**Closed**|
 
 
 
