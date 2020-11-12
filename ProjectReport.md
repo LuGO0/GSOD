@@ -145,13 +145,29 @@ Extending Slate Based OpenMRS RestAPI Documentation
 | **9**  | Documenting Patient Resource allergy section | [PR 112](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/112)|**Under-Review**|
 | **10**  | Documenting Person Resource main section | [PR 113](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/113)|**Under-Review**|
 | **11**  | Documenting Patient Resource main section | [PR 114](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/114)|**Under-Review**|
-| **12**  | Documenting Location resource | [PR 115](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/115)|**Draft**|
-| **13**  | Documenting Location Tag resource | [PR 116](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/116)|**Draft**|
-| **14**  | Documenting location Attribute  | [PR 117](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/117)|**Draft**|
-| **15**  | Correcting Base url and header names | [PR 118](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/118)|**Merged**|
+| **12**  | Documenting Location resource | [PR 116](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/116)|**Draft**|
+| **13**  | Documenting Location Tag resource | [PR 117](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/117)|**Draft**|
+| **14**  | Documenting location Attribute type  | [PR 118](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/118)|**Draft**|
+| **15**  | Correcting Base url and header names | [PR 115](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/115)|**Merged**|
 
 
+### Week 9
 
+|       Order       |         Description          |      Link to PR        |      Status        |
+|-------------------|------------------------------|------------------------|--------------------|
+| **1**  | Documenting Visit Resource main section | [PR 110](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/110)|**Merged**|
+| **2**  | Documenting Visit Resource attribute section | [PR 111](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/111)|**Blocker**|
+| **3**  | Documenting Patient Resource allergy section | [PR 112](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/112)|**Merged**|
+| **4**  | Documenting Person Resource main section | [PR 113](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/113)|**Merged**|
+| **5**  | Documenting Patient Resource main section | [PR 114](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/114)|**Merged**|
+| **6**  | Documenting Location resource | [PR 116](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/116)|**Merged**|
+| **7**  | Documenting Location Tag resource | [PR 117](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/117)|**Under-Review**|
+| **8**  | Documenting location Attribute type  | [PR 118](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/118)|**Under-Review**|
+| **9**  | Documenting Location resource attribute| [PR 119](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/119)|**Merged**|
+| **10**  | Documenting Provider attribute type | [120](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/120)|**Under-Review**|
+| **11**  | Documenting Provider attribute resource  | [PR 122](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/122)|**Under-Review**|
+| **12**  | Documenting Patient Resource patient subsection | [PR 123](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/123)|**Under-Review**|
+| **13**  | Documenting Visit resource visit section | [PR 124](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/124)|**Blocker**|
 
 
 
