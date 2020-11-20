@@ -164,7 +164,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 | **7**  | Documenting Location Tag resource | [PR 117](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/117)|**Under-Review**|
 | **8**  | Documenting location Attribute type  | [PR 118](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/118)|**Under-Review**|
 | **9**  | Documenting Location resource attribute| [PR 119](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/119)|**Merged**|
-| **10**  | Documenting Provider attribute type | [120](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/120)|**Under-Review**|
+| **10**  | Documenting Provider attribute type | [PR 120](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/120)|**Under-Review**|
 | **11**  | Documenting Provider attribute resource  | [PR 122](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/122)|**Under-Review**|
 | **12**  | Documenting Patient Resource patient subsection | [PR 123](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/123)|**Under-Review**|
 | **13**  | Documenting Visit resource visit section | [PR 124](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/124)|**Blocker**|
@@ -177,7 +177,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 |-------------------|------------------------------|------------------------|--------------------|
 | **1**  | Documenting Location Tag resource | [PR 117](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/117)|**Merged**|
 | **2**  | Documenting location Attribute type  | [PR 118](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/118)|**Merged**|
-| **3**  | Documenting Provider attribute type | [120](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/120)|**Under-Review**|
+| **3**  | Documenting Provider attribute type | [PR 120](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/120)|**Under-Review**|
 | **4**  | Documenting Provider attribute resource  | [PR 122](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/122)|**Under-Review**|
 | **5**  | Documenting Patient Resource patient subsection | [PR 123](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/123)|**Merged**|
 | **6**  | Documenting Visit resource visit section | [PR 124](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/124)|**Under-Review**|
