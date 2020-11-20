@@ -171,6 +171,24 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 
 
+### Week 10
+
+|       Order       |         Description          |      Link to PR        |      Status        |
+|-------------------|------------------------------|------------------------|--------------------|
+| **1**  | Documenting Location Tag resource | [PR 117](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/117)|**Merged**|
+| **2**  | Documenting location Attribute type  | [PR 118](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/118)|**Merged**|
+| **3**  | Documenting Provider attribute type | [120](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/120)|**Under-Review**|
+| **4**  | Documenting Provider attribute resource  | [PR 122](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/122)|**Under-Review**|
+| **5**  | Documenting Patient Resource patient subsection | [PR 123](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/123)|**Merged**|
+| **6**  | Documenting Visit resource visit section | [PR 124](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/124)|**Under-Review**|
+| **7**  | Reviewed Docs for UI and section errors | [PR 125](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/125)|**Under-Review**|
+| **8**  | Documenting Encounter role resource | [PR 126](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/126)|**Under-Review**|
+| **9**  | Documenting Encounter type resource  | [PR 127](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/127)|**Under-Review**|
+| **10**  | Fixed visit section blocker and completed section | [PR 128](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/128)|**Under-Review**|
+| **11**  | Documenting Encounter resource | [PR 129](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/129)|**Draft**|
+
+
+
 
 
 
