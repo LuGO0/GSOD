@@ -188,6 +188,24 @@ Extending Slate Based OpenMRS RestAPI Documentation
 | **11**  | Documenting Encounter resource | [PR 129](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/129)|**Draft**|
 
 
+### Week 11
+
+|       Order       |         Description          |      Link to PR        |      Status        |
+|-------------------|------------------------------|------------------------|--------------------|
+| **1**  | Documenting Provider attribute type | [PR 120](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/120)|**Merged**|
+| **2**  | Documenting Provider attribute resource  | [PR 122](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/122)|**Merged**|
+| **3**  | Documenting Patient Resource patient subsection | [PR 123](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/123)|**Merged**|
+| **4**  | Documenting Visit resource visit section | [PR 124](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/124)|**Merged**|
+| **5**  | Reviewed Docs for UI and section errors | [PR 125](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/125)|**Merged**|
+| **6**  | Documenting Encounter role resource | [PR 126](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/126)|**Merged**|
+| **7**  | Documenting Encounter type resource  | [PR 127](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/127)|**Merged**|
+| **8**  | Fixed visit section blocker and completed section | [PR 128](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/128)|**Under-Review**|
+| **9**  | Documenting Encounter resource | [PR 129](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/129)|**Under-Review**|
+| **10**  | Documenting Form Resource main section | [PR 130](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/130)|**Under-Review**|
+| **11**  | Documenting Field type resource | [PR 131](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/131)|**Under-Review**|
+| **12**  | Documenting Order type resource | [PR 132](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/132)|**Under-Review**|
+
+
 
 
 
