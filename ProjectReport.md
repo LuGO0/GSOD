@@ -9,6 +9,9 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ## Work Done
 
+* Some PRs might be in multiple weeks due to their status might be under-review in some week and merged in the other !!
+
+
 ### Community Bonding Phase
 
 |       Order       |         Description          |      Link to PR        |      Status        |
