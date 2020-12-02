@@ -10,6 +10,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 ## Work Done
 
 * Some PRs might be in multiple weeks due to their status might be under-review in some week and merged in the other !!
+* Community Thread for discussion on the project on OpenMRS Talk [here](https://talk.openmrs.org/t/gsod-2020-openmrs-rest-api-documentation/28736/411).
 
 
 ### Community Bonding Phase
@@ -44,7 +45,9 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 
 
-### Week 1
+### Week 1   
+
+* [Week 1 blog-Post](https://lug0.medium.com/the-first-week-of-gsod-with-openmrs-3d3150251fbc)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -57,6 +60,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 2
 
+* [Week 2 blog-Post](https://lug0.medium.com/my-second-week-of-gsod-with-openmrs-734a7554c8ef)
 
 |       Order       |         Description          |      Link to PR        |      Status        |
 |-------------------|------------------------------|------------------------|--------------------|
@@ -67,6 +71,8 @@ Extending Slate Based OpenMRS RestAPI Documentation
 | **5**  | Documenting concept reference term type subresource | [PR 85](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/85)|**Draft**|
 
 ### Week 3
+
+* [Week 3 blog-Post](https://lug0.medium.com/my-third-week-of-gsod-with-openmrs-c1b046a04167)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -80,6 +86,8 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 4
 
+* [Week 4 blog-Post](https://lug0.medium.com/my-fourth-week-of-gsod-with-openmrs-b3eddb69a51c)
+
 
 |       Order       |         Description          |      Link to PR        |      Status        |
 |-------------------|------------------------------|------------------------|--------------------|
@@ -91,6 +99,8 @@ Extending Slate Based OpenMRS RestAPI Documentation
 | **6**  | Documenting Observation resource | [PR 91](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/91)|**Draft**|
 
 ### Week 5
+
+* [Week 5 blog-Post](https://lug0.medium.com/my-fifith-week-of-gsod-with-openmrs-64c0ee6bcea1)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -106,6 +116,8 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 6
 
+* [Week 6 blog-Post](https://lug0.medium.com/my-sixth-week-of-gsod-with-openmrs-ed6bfb7543e5)
+
 
 |       Order       |         Description          |      Link to PR        |      Status        |
 |-------------------|------------------------------|------------------------|--------------------|
@@ -118,6 +130,8 @@ Extending Slate Based OpenMRS RestAPI Documentation
 | **7**  | Documenting Person-Attribute type resource | [PR 99](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/99)|**Merged**|
 
 ### Week 7
+
+* [Week 7 blog-Post](https://lug0.medium.com/my-seventh-week-of-gsod-with-openmrs-ec24043e1f78)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -133,6 +147,8 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 
 ### Week 8
+
+* [Week 8 blog-Post](https://lug0.medium.com/my-eighth-week-of-gsod-with-openmrs-882483d84e47)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -156,6 +172,9 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 9
 
+* [Week 9 blog-Post](https://lug0.medium.com/ninth-week-of-gsod-with-openmrs-dc660f2ab3f9)
+
+
 |       Order       |         Description          |      Link to PR        |      Status        |
 |-------------------|------------------------------|------------------------|--------------------|
 | **1**  | Documenting Visit Resource main section | [PR 110](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/110)|**Merged**|
@@ -176,6 +195,9 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 10
 
+* [Week 10 blog-Post](https://lug0.medium.com/a-couple-of-weeks-left-in-gsod-with-openmrs-53f3ea7e2811)
+
+
 |       Order       |         Description          |      Link to PR        |      Status        |
 |-------------------|------------------------------|------------------------|--------------------|
 | **1**  | Documenting Location Tag resource | [PR 117](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/117)|**Merged**|
@@ -192,6 +214,9 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 
 ### Week 11
+
+* [Week 11 blog-Post](https://lug0.medium.com/last-week-of-gsod-with-openmrs-c744b24a203a)
+
 
 |       Order       |         Description          |      Link to PR        |      Status        |
 |-------------------|------------------------------|------------------------|--------------------|
