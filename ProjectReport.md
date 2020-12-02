@@ -11,6 +11,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 * Some PRs might be in multiple weeks due to their status might be under-review in some week and merged in the other !!
 * Community Thread for discussion on the project on OpenMRS Talk [here](https://talk.openmrs.org/t/gsod-2020-openmrs-rest-api-documentation/28736/411).
+* All my merged work is hosted [here](https://rest.openmrs.org) live .
 
 
 ### Community Bonding Phase
