@@ -239,13 +239,14 @@ Extending Slate Based OpenMRS RestAPI Documentation
 ## Objectives Completed
 * Found out the missing resources and got their documentation merged into the documentation, systemInformation, systemSettings and Form resources and sub-resources.
 * Checked out all the current curl examples make sure they're up to date and fixed some of the documentation and made sure they are not abstract but work well with the demo sever.
-* Added Java & Javascript examples and updated the getting started guide so that getting started with the documentation is pretty simple.
+* Added Java & Javascript examples and updated the getting started guide so that getting started with the documentation becomes simple.
 * presented the progress weekly with a talk post with the community and designed and floated 2 surveys to take feedback for my work from the community.
-* All the examples are base server agnostic and plug and play, but checked with the demo-server.
+* All the examples are base server agnostic and plug and play, and checked with the demo-server.
 * Extra credits | updated the slate based documentation tool to its latest release for better usability and bug fixes.
 
 ## Future Works
 * There needs to be a technical solution to generate most of the content except the description of resources and some static part of the documentation, itself from the javadocs by annotations using some tool like [springFox](https://springfox.github.io/springfox/docs/current/).
+* Adding more resources to the current documentation as the community expects a comprehensive API documentation like the swagger based documentation.
 * Making some instances of resources read-only on the Demo Server, so that the examples work always without any unexpected Issues and problems.
 
 
