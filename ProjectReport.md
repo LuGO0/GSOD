@@ -237,7 +237,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 
 ## Objectives Completed
-* Got the feedback and fine-Tuned objectives for this project through 2 Documentation surveys [here](https://talk.openmrs.org/t/openmrs-restapi-documentation-survey-ii/30627) and [here](https://talk.openmrs.org/t/openmrs-restapi-documentation-survey/30003)
+* Got the feedback and fine-Tuned objectives for this project through 2 Documentation surveys [here](https://talk.openmrs.org/t/openmrs-restapi-documentation-survey-ii/30627) and [here](https://talk.openmrs.org/t/openmrs-restapi-documentation-survey/30003).
 * Found out the missing resources and got their documentation merged into the documentation, systemInformation, systemSettings and Form resources and sub-resources.
 * Checked out all the current curl examples make sure they're up to date and fixed some of the documentation and made sure they are not abstract but work well with the demo sever.
 * Added Java & Javascript examples and updated the getting started guide so that getting started with the documentation becomes simple.
@@ -250,5 +250,9 @@ Extending Slate Based OpenMRS RestAPI Documentation
 * Adding more resources to the current documentation as the community expects a comprehensive API documentation like the swagger based documentation.
 * Making some instances of resources read-only on the Demo Server, so that the examples work always without any unexpected Issues and problems.
 
+## Challenges
+* Figuring out which part of the documentation is still relevant and cheking and incorporating all the details from the dataModel and swagger documentation so that the new information is consistent in the new documentation.
+* Asking question to the right set of people and getting answers, my mentors helped immensely in this part since they answered most of the questions as they could and for the rest part redirected me to the relevant person for help.
+* Keeping up the work with my semester exams was a bit chanllenging, weekly reports helped immensely in that respect since I was able to communicate my progess to the community and track the objectives still left to be completed.
 
 
