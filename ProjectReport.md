@@ -20,7 +20,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 |-------------------|------------------------------|------------------------|--------------------|
 | **1**  | Fixed the build for project |[PR 42](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/42)|**Merged**|
 | **2**  | Fixed Issues and mistakes for auth.md, Info.md and Contrib.md |[PR 45](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/45)|**Merged**|
-| **3**  | Fixed Issues and mistakes role.md, user.md, privileges.md, </br> persons.md, person_atttributr_type.md, patients.md and patient_identifier_type.md|[PR 47](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/47)|**Merged**|
+| **3**  | Fixed Issues and mistakes role.md, user.md, privileges.md, </br> persons.md, person_atttributr_type.md,</br> patients.md and patient_identifier_type.md|[PR 47](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/47)|**Merged**|
 | **4**  | Fixed UI Issues in User.md |[PR 49](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/49)|**Merged**|
 | **5**  | Fixed console formatting in Patient.md, patient_identifier.md|[PR 50](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/50)|**Merged**|
 | **6**  | Reviewing Docs Uptill the visits section |[PR 53](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/53)|**Merged**|
