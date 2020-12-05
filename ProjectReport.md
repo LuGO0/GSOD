@@ -253,6 +253,6 @@ Extending Slate Based OpenMRS RestAPI Documentation
 ## Challenges
 * Figuring out which part of the documentation is still relevant and checking and incorporating all the details from the dataModel and swagger documentation so that the new information is consistent in the new documentation.
 * Asking question to the right set of people and getting answers, my mentors helped immensely in this part since they answered most of the questions as they could and for the rest part redirected me to the relevant person for help.
-* Keeping up the work with my semester exams was a bit chanllenging, weekly reports helped immensely in that respect since I was able to communicate my progess to the community and track the objectives still left to be completed.
+* Keeping up the work with my semester exams was a bit challenging, weekly reports helped immensely in that respect since I was able to communicate my progess to the community and track the objectives still left to be completed.
 
 
