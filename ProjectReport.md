@@ -233,7 +233,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 | **10**  | Documenting Form Resource main section | [PR 130](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/130)|**Draft**|
 | **11**  | Documenting Field type resource | [PR 131](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/131)|**Merged**|
 | **12**  | Documenting Order type resource | [PR 132](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/132)|**Merged**|
-| **14**  | Documenting the Order section | [PR 133](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/133)|**Merged**|
+| **13**  | Documenting the Order section | [PR 133](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/133)|**Merged**|
 | **14**  | Tweaking the examples introduction | [PR 134](https://github.com/openmrs/openmrs-contrib-rest-api-docs/pull/134)|**Under-Review**|
 
 
