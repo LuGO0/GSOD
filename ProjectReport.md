@@ -48,7 +48,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 1   
 
-* [Week 1 blog-Post](https://lug0.medium.com/the-first-week-of-gsod-with-openmrs-3d3150251fbc)
+* [Week 1 blog-Post](https://saurabhofficial.medium.com/the-first-week-of-gsod-with-openmrs-3d3150251fbc)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -61,7 +61,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 2
 
-* [Week 2 blog-Post](https://lug0.medium.com/my-second-week-of-gsod-with-openmrs-734a7554c8ef)
+* [Week 2 blog-Post](https://saurabhofficial.medium.com/my-second-week-of-gsod-with-openmrs-734a7554c8ef)
 
 |       Order       |         Description          |      Link to PR        |      Status        |
 |-------------------|------------------------------|------------------------|--------------------|
@@ -73,7 +73,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 3
 
-* [Week 3 blog-Post](https://lug0.medium.com/my-third-week-of-gsod-with-openmrs-c1b046a04167)
+* [Week 3 blog-Post](https://saurabhofficial.medium.com/my-third-week-of-gsod-with-openmrs-c1b046a04167)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -87,7 +87,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 4
 
-* [Week 4 blog-Post](https://lug0.medium.com/my-fourth-week-of-gsod-with-openmrs-b3eddb69a51c)
+* [Week 4 blog-Post](https://saurabhofficial.medium.com/my-fourth-week-of-gsod-with-openmrs-b3eddb69a51c)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -101,7 +101,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 5
 
-* [Week 5 blog-Post](https://lug0.medium.com/my-fifith-week-of-gsod-with-openmrs-64c0ee6bcea1)
+* [Week 5 blog-Post](https://saurabhofficial.medium.com/my-fifith-week-of-gsod-with-openmrs-64c0ee6bcea1)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -117,7 +117,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 6
 
-* [Week 6 blog-Post](https://lug0.medium.com/my-sixth-week-of-gsod-with-openmrs-ed6bfb7543e5)
+* [Week 6 blog-Post](https://saurabhofficial.medium.com/my-sixth-week-of-gsod-with-openmrs-ed6bfb7543e5)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -132,7 +132,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 7
 
-* [Week 7 blog-Post](https://lug0.medium.com/my-seventh-week-of-gsod-with-openmrs-ec24043e1f78)
+* [Week 7 blog-Post](https://saurabhofficial.medium.com/my-seventh-week-of-gsod-with-openmrs-ec24043e1f78)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -149,7 +149,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 8
 
-* [Week 8 blog-Post](https://lug0.medium.com/my-eighth-week-of-gsod-with-openmrs-882483d84e47)
+* [Week 8 blog-Post](https://saurabhofficial.medium.com/my-eighth-week-of-gsod-with-openmrs-882483d84e47)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -173,7 +173,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 9
 
-* [Week 9 blog-Post](https://lug0.medium.com/ninth-week-of-gsod-with-openmrs-dc660f2ab3f9)
+* [Week 9 blog-Post](https://saurabhofficial.medium.com/ninth-week-of-gsod-with-openmrs-dc660f2ab3f9)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -196,7 +196,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 10
 
-* [Week 10 blog-Post](https://lug0.medium.com/a-couple-of-weeks-left-in-gsod-with-openmrs-53f3ea7e2811)
+* [Week 10 blog-Post](https://saurabhofficial.medium.com/a-couple-of-weeks-left-in-gsod-with-openmrs-53f3ea7e2811)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
@@ -216,7 +216,7 @@ Extending Slate Based OpenMRS RestAPI Documentation
 
 ### Week 11
 
-* [Week 11 blog-Post](https://lug0.medium.com/last-week-of-gsod-with-openmrs-c744b24a203a)
+* [Week 11 blog-Post](https://saurabhofficial.medium.com/last-week-of-gsod-with-openmrs-c744b24a203a)
 
 
 |       Order       |         Description          |      Link to PR        |      Status        |
